@@ -1,0 +1,21 @@
+{
+    "name": "Refurbished Store",
+    "short_name": "Refurb Store",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+      {
+        "src": "https://st2.depositphotos.com/1768926/7866/v/450/depositphotos_78666192-stock-illustration-a-logo-sample-logo-for.jpg",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://st2.depositphotos.com/1768926/7866/v/450/depositphotos_78666192-stock-illustration-a-logo-sample-logo-for.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
